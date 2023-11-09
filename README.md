@@ -144,7 +144,8 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![Alt text](<Screenshot 2023-11-09 171956.png>)
+![image](https://github.com/rizwanrayyan/cover/assets/121215820/0686f682-510b-4970-8edf-28d7237b5a8e)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
